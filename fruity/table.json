@@ -1,0 +1,10 @@
+﻿{
+    "name": "♂難易度表",
+    "symbol": "♂",
+    "data_url": "https://dfroji.github.io/fruity/data.json", 
+    "level_order": [
+        1,
+        2,
+        3
+    ]
+}
